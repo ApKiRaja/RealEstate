@@ -1,0 +1,7 @@
+{
+  "name": "Test Jetton",
+  "description": "Demo token on TON testnet",
+  "symbol": "TJT",
+  "decimals": 9,
+  "image": "https://example.com/logo.png"
+}
